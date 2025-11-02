@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ParkEase - AI-Powered Smart Parking Platform
 
 An intelligent parking space prediction and booking system that helps users find and reserve parking spots in advance using AI/ML predictions.
